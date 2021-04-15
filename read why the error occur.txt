@@ -1,0 +1,1 @@
+this error will occare when you try to run the code again because we spiltte temp_rating coulme to to diffrent coulnm 
